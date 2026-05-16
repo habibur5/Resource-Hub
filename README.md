@@ -6,4 +6,4 @@
 
 # System Design 
 
-- `blog:` System Design Bangla[https://www.systemdesignbangla.com/toc.html]
+- `blog:`[System Design Bangla](https://www.systemdesignbangla.com/toc.htm)
